@@ -23,6 +23,10 @@
 | Move | idʒi | iji |
 | Stand | vaʊʒ | vowge |
 | Like | laʊʒvæŋ | lowgevang |
+| Day | \<Tense prefix>-dʒʊl  | -jewel |
+| Yesterday | biðdʒʊl | beethjewel |
+| Today | nʊvdʒʊl | noovjewel |
+| Tomorrow | baʊddʒʊl | bowdjewel |
 
 ## Adjectives
 
@@ -39,3 +43,4 @@
 | Present (optional) | nʊv | noov | Prefix |
 | Future | baʊd | bowd | Prefix |
 | Question | hʊl | hool | Prefix |
+| Negation | aʊð | owth | Suffix |

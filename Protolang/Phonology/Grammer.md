@@ -1,5 +1,5 @@
 ### Sentence Structure
-\[Descriptive Prefix (IE: Question)] \[Tense] \[Subject] \[Object] \[Verb]
+\[Descriptive Prefix (Question/Negation Etc)] \[Tense] \[Subject] \[Object] \[Verb]
 
 ### Descriptors
 \[Subject] \[Descriptors] 
