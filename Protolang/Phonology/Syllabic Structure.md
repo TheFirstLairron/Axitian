@@ -1,0 +1,2 @@
+## Syllabic Structure
+\[V]CV
