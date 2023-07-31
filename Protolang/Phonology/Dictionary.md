@@ -20,6 +20,7 @@
 | Today | nʊvdʒʊl | noovjewel |
 | Tomorrow | baʊddʒʊl | bowdjewel |
 | Home | ðʊvih | thoovee |
+| Sustenance | ælæɹi | ahlahri |
 
 ## Verbs
 
@@ -29,6 +30,7 @@
 | Travel | lʊmhi | loomhee |
 | Stand | vaʊʒ | vowge |
 | Like | laʊʒvæŋ | lowgevang |
+| Need | vinaʊli | veenowlee |
 
 ## Adjectives
 

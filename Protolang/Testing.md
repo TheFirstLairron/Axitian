@@ -14,3 +14,6 @@ aʊð nʊv baðza idʒi - I am not moving
 
 nʊv baðza ðʊvih lʊmhi - I'm traveling home
 	ðʊvih lʊmhi
+
+nʊv baðza ælæɹi vinaʊli - I need food
+	ælæɹi vinaʊli
