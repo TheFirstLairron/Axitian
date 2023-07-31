@@ -15,18 +15,20 @@
 | --- | --- | --- |
 | Reference to Self | baðza | bath-za |
 | Reference to Other | baʒza | bage-za |
+| Day | \<Tense prefix>-dʒʊl  | -jewel |
+| Yesterday | biðdʒʊl | beethjewel |
+| Today | nʊvdʒʊl | noovjewel |
+| Tomorrow | baʊddʒʊl | bowdjewel |
+| Home | ðʊvih | thoovee |
 
 ## Verbs
 
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Move | idʒi | iji |
+| Travel | lʊmhi | loomhee |
 | Stand | vaʊʒ | vowge |
 | Like | laʊʒvæŋ | lowgevang |
-| Day | \<Tense prefix>-dʒʊl  | -jewel |
-| Yesterday | biðdʒʊl | beethjewel |
-| Today | nʊvdʒʊl | noovjewel |
-| Tomorrow | baʊddʒʊl | bowdjewel |
 
 ## Adjectives
 

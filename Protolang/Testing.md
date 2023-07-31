@@ -11,3 +11,6 @@ aʊð baʊd baðza idʒi - I will not move
 	aʊð baʊd idʒi
 aʊð nʊv baðza idʒi - I am not moving
 	aʊð idʒi
+
+nʊv baðza ðʊvih lʊmhi - I'm traveling home
+	ðʊvih lʊmhi
