@@ -20,4 +20,4 @@ nʊv baðza ælæɹi vinaʊli - I need food
 
 dʒæm baʒza ælæɹi mihʊŋ - You must provide food
 
-dʒæm baʒza idʒi zæd aʊð idʒi ɹiv - You must move, but not quickly
+dʒæm baʒza idʒi zæd aʊð ɹiv - You must move, but not quickly

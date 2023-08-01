@@ -45,7 +45,7 @@
 
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Exception | zæd | zad |
+| Modify Previous Verb | zæd | zad |
 
 ## Suffixes and Prefixes
 
