@@ -14,7 +14,8 @@
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Reference to Self | baðza | bath-za |
-| Reference to Other | baʒza | bage-za |
+| Reference to Other (animate) | baʒza | bage-za |
+| Reference to Other (inanimate) | babza | bab-za |
 | Day | \<Tense prefix>-dʒʊl  | -jewel |
 | Yesterday | biðdʒʊl | beethjewel |
 | Today | nʊvdʒʊl | noovjewel |
@@ -31,6 +32,7 @@
 | Stand | vaʊʒ | vowge |
 | Like | laʊʒvæŋ | lowgevang |
 | Need | vinaʊli | veenowlee |
+| Provide | mihʊŋ | meehoong |
 
 ## Adjectives
 
@@ -39,6 +41,12 @@
 | Amplified | ɹiv | reave |
 | Diminished | viɹ | veer |
 
+## Conjunctions
+
+| English | PL IPA | Pronunciation |
+| --- | --- | --- |
+| Exception | zæd | zad |
+
 ## Suffixes and Prefixes
 
 | English | PL IPA | Pronunciation | Location |
@@ -46,5 +54,6 @@
 | Past | bið | beeth | Prefix |
 | Present (optional) | nʊv | noov | Prefix |
 | Future | baʊd | bowd | Prefix |
-| Question | hʊl | hool | Prefix |
 | Negation | aʊð | owth | Suffix |
+| Interrogative | hʊl | hool | Prefix |
+| Imperative | dʒæm | jam | Prefix |

@@ -17,3 +17,7 @@ nʊv baðza ðʊvih lʊmhi - I'm traveling home
 
 nʊv baðza ælæɹi vinaʊli - I need food
 	ælæɹi vinaʊli
+
+dʒæm baʒza ælæɹi mihʊŋ - You must provide food
+
+dʒæm baʒza idʒi zæd aʊð idʒi ɹiv - You must move, but not quickly
