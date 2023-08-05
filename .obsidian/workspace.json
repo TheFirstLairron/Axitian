@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "Protolang/Phonology/Dictionary.md",
                     "mode": "source",
                     "source": true
                   }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Protolang/Phonology/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Protolang/Phonology/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Protolang/Phonology/Dictionary.md"
               }
             }
           }
@@ -237,12 +237,12 @@
   },
   "active": "7a93d28d6f35dbaa",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
+    "Protolang/Phonology/Vowels.md",
     "Protolang/Phonology/Dictionary.md",
+    "README.md",
+    "Untitled.md",
     "Protolang/Testing.md",
     "Protolang/Phonology/Consonants.md",
-    "Protolang/Phonology/Vowels.md",
     "Protolang/Phonology/Grammer.md",
     "Axitian/Phonology/Consonants.md",
     "Axitian/Phonology/Vowels.md",

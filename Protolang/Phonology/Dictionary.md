@@ -16,12 +16,11 @@
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Sustenance | ælæɹi | ahlahri |
-| Day | \<Tense prefix>-dʒʊl  | -jewel |
-| Yesterday | biðdʒʊl | beethjewel |
-| Today | nʊvdʒʊl | noovjewel |
-| Tomorrow | baʊddʒʊl | bowdjewel |
-
-
+| Time | væh | vah |
+| Day | dʒʊl  | jewel |
+| Yesterday | væhbiðdʒʊl | vahbeethjewel |
+| Today | væhdʒʊl | vahjewel |
+| Tomorrow | væhbaʊddʒʊl | vahbowdjewel |
 
 
 ## Verbs
@@ -53,7 +52,9 @@
 ### Time
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-|  |  |  |
+| Before | væhbið | vahbeeth |
+| During | væhnʊv | vahnoov |
+| After | væhbaʊd | vahbowd |
 ### Place/Spatial Relationship
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
