@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Protolang/Phonology/Dictionary.md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": true
                   }
@@ -34,7 +34,7 @@
               {
                 "id": "f876e3d61bdca04f",
                 "type": "split",
-                "dimension": 45.73643410852713,
+                "dimension": 40.89147286821706,
                 "children": [
                   {
                     "id": "9dcad09145dcdcbd",
@@ -80,7 +80,7 @@
               {
                 "id": "36d34cf7577fa1a3",
                 "type": "tabs",
-                "dimension": 54.263565891472865,
+                "dimension": 59.10852713178295,
                 "children": [
                   {
                     "id": "5785af95c441f037",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protolang/Testing.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protolang/Testing.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protolang/Testing.md"
+                "file": "README.md"
               }
             }
           }
@@ -235,14 +235,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db947340743bde45",
+  "active": "7a93d28d6f35dbaa",
   "lastOpenFiles": [
-    "Protolang/Phonology/Dictionary.md",
-    "Protolang/Phonology/Grammer.md",
-    "Protolang/Testing.md",
-    "Protolang/Phonology/Vowels.md",
-    "Protolang/Phonology/Consonants.md",
+    "Untitled.md",
     "README.md",
+    "Protolang/Phonology/Dictionary.md",
+    "Protolang/Testing.md",
+    "Protolang/Phonology/Consonants.md",
+    "Protolang/Phonology/Vowels.md",
+    "Protolang/Phonology/Grammer.md",
     "Axitian/Phonology/Consonants.md",
     "Axitian/Phonology/Vowels.md",
     "Random Notes.md",

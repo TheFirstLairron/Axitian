@@ -21,3 +21,6 @@ nʊv baðza ælæɹi vinaʊli - I need food
 dʒæm baʒza ælæɹi mihʊŋ - You must provide food
 
 dʒæm baʒza idʒi zæd aʊð ɹiv - You must move, but not quickly
+
+nʊv baʒza daʊliz baðza rʊzaʊʒ - You are above me
+	baʒza daʊliz baðza
