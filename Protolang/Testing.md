@@ -24,3 +24,5 @@ dʒæm baʒza idʒi zæd aʊð ɹiv - You must move, but not quickly
 
 nʊv baʒza daʊliz baðza rʊzaʊʒ - You are above me
 	baʒza daʊliz baðza
+
+væhdʒʊl ðiðzæh rʊzaʊʒ - A welcome greeting

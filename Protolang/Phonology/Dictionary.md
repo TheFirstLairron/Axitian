@@ -21,10 +21,10 @@
 | Yesterday | væhbiðdʒʊl | vahbeethjewel |
 | Today | væhdʒʊl | vahjewel |
 | Tomorrow | væhbaʊddʒʊl | vahbowdjewel |
+| Joy | ðiðzæh | theethzah |
 
 
 ## Verbs
-
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | To Exist | rʊzaʊʒ | roozowge |
@@ -35,18 +35,19 @@
 | Need | vinaʊli | veenowlee |
 | Provide | mihʊŋ | meehoong |
 
-## Adjectives
 
+## Adjectives
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Amplified | ɹiv | reave |
 | Diminished | viɹ | veer |
 
-## Conjunctions
 
+## Conjunctions
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Modify Previous Verb | zæd | zad |
+
 
 ## Prepositions
 ### Time
@@ -62,8 +63,8 @@
 | Below | nʊliŋ | nooling |
 | Next To |  |  |
 
-## Suffixes and Prefixes
 
+## Suffixes and Prefixes
 | English | PL IPA | Pronunciation | Location |
 | --- | --- | --- | --- |
 | Past | bið | beeth | Prefix |
