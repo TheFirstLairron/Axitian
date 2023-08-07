@@ -1,28 +1,28 @@
-nʊv baðza idʒi ɹiv - I am moving very fast
+nʊv bɔðzɔ idʒi ɹiv - I am moving very fast
 	idʒi ɹiv
 
-nʊv baðza baʒza laʊʒvæŋ ɹiv - I love you
-	baʒza laʊʒvæŋ ɹiv
+nʊv bɔðzɔ bɔʒzɔ laʊʒvɔŋ ɹiv - I love you
+	bɔʒzɔ laʊʒvɔŋ ɹiv
 
-hʊl nʊv baʒza baðza laʊʒvæŋ ɹiv - Do you love me?
-	hʊl baʒza baðza laʊʒvæŋ ɹiv
+hʊl nʊv bɔʒzɔ bɔðzɔ laʊʒvɔŋ ɹiv - Do you love me?
+	hʊl bɔʒzɔ bɔðzɔ laʊʒvɔŋ ɹiv
 
-aʊð baʊd baðza idʒi - I will not move
+aʊð baʊd bɔðzɔ idʒi - I will not move
 	aʊð baʊd idʒi
-aʊð nʊv baðza idʒi - I am not moving
+aʊð nʊv bɔðzɔ idʒi - I am not moving
 	aʊð idʒi
 
-nʊv baðza ðʊvih lʊmhi - I'm traveling home
+nʊv bɔðzɔ ðʊvih lʊmhi - I'm traveling home
 	ðʊvih lʊmhi
 
-nʊv baðza ælæɹi vinaʊli - I need food
-	ælæɹi vinaʊli
+nʊv bɔðzɔ ɔlɔɹi vinaʊli - I need food
+	ɔlɔɹi vinaʊli
 
-dʒæm baʒza ælæɹi mihʊŋ - You must provide food
+dʒɔm bɔʒzɔ ɔlɔɹi mihʊŋ - You must provide food
 
-dʒæm baʒza idʒi zæd aʊð ɹiv - You must move, but not quickly
+dʒɔm bɔʒzɔ idʒi zɔd aʊð ɹiv - You must move, but not quickly
 
-nʊv baʒza daʊliz baðza rʊzaʊʒ - You are above me
-	baʒza daʊliz baðza
+nʊv bɔʒzɔ daʊliz bɔðzɔ rʊzaʊʒ - You are above me
+	bɔʒzɔ daʊliz bɔðzɔ
 
-væhdʒʊl ðiðzæh rʊzaʊʒ - A welcome greeting
+vɔhdʒʊl ðiðzɔh rʊzaʊʒ - A welcome greeting

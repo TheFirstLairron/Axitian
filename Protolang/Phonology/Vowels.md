@@ -1,6 +1,6 @@
 | IPA | Example |
 | --- | --- |
-| /i/ | _ea_t |
+| /i/ | \_ea_t |
 | /ʊ/ | b_oo_k |
-| /æ/ | _a_pple |
+| /ɔ/ | h_a_ll |
 | /aʊ/ | l_ou_d |

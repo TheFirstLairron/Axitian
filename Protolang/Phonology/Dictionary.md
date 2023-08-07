@@ -3,25 +3,27 @@
 ### People
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Reference to Self | baðza | bath-za |
-| Reference to Other (animate) | baʒza | bage-za |
-| Reference to Other (inanimate) | babza | bab-za |
+| Reference to Self | bɔðzɔ | bahth-zah |
+| Reference to Other (animate) | bɔʒzɔ | bahge-zah |
+| Reference to Other (inanimate) | bɔbzɔ | bahb-zah |
 
 ### Places
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Home | ðʊvih | thoovee |
+| Store | bɔmvʊð | bahmvooth |
 
 ### Things
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Sustenance | ælæɹi | ahlahri |
-| Time | væh | vah |
+| Sustenance | ɔlɔɹi | ahlahri |
+| Time | vɔh | vah |
 | Day | dʒʊl  | jewel |
-| Yesterday | væhbiðdʒʊl | vahbeethjewel |
-| Today | væhdʒʊl | vahjewel |
-| Tomorrow | væhbaʊddʒʊl | vahbowdjewel |
-| Joy | ðiðzæh | theethzah |
+| Yesterday | vɔhbiðdʒʊl | vahbeethjewel |
+| Today | vɔhdʒʊl | vahjewel |
+| Tomorrow | vɔhbaʊddʒʊl | vahbowdjewel |
+| Joy | ðiðzɔh | theethzah |
+
 
 
 ## Verbs
@@ -31,7 +33,7 @@
 | Move | idʒi | iji |
 | Travel | lʊmhi | loomhee |
 | Stand | vaʊʒ | vowge |
-| Like | laʊʒvæŋ | lowgevang |
+| Like | laʊʒvɔŋ | lowgevang |
 | Need | vinaʊli | veenowlee |
 | Provide | mihʊŋ | meehoong |
 
@@ -46,16 +48,16 @@
 ## Conjunctions
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Modify Previous Verb | zæd | zad |
+| Modify Previous Verb | zɔd | zahd |
 
 
 ## Prepositions
 ### Time
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Before | væhbið | vahbeeth |
-| During | væhnʊv | vahnoov |
-| After | væhbaʊd | vahbowd |
+| Before | vɔhbið | vahbeeth |
+| During | vɔhnʊv | vahnoov |
+| After | vɔhbaʊd | vahbowd |
 ### Place/Spatial Relationship
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
@@ -73,4 +75,4 @@
 | Possessive Noun | | | suffix |
 | Negation | aʊð | owth | Suffix |
 | Interrogative | hʊl | hool | Prefix |
-| Imperative | dʒæm | jam | Prefix |
+| Imperative | dʒɔm | jam | Prefix |

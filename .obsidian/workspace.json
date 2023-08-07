@@ -10,7 +10,7 @@
           {
             "id": "f7bf180404e8a082",
             "type": "tabs",
-            "dimension": 44.16243654822335,
+            "dimension": 45.49492385786802,
             "children": [
               {
                 "id": "7a93d28d6f35dbaa",
@@ -29,17 +29,17 @@
           {
             "id": "3d2f3ee56cc88fab",
             "type": "split",
-            "dimension": 55.83756345177665,
+            "dimension": 54.50507614213198,
             "children": [
               {
                 "id": "f876e3d61bdca04f",
                 "type": "split",
-                "dimension": 40.89147286821706,
+                "dimension": 41.08527131782946,
                 "children": [
                   {
                     "id": "9dcad09145dcdcbd",
                     "type": "tabs",
-                    "dimension": 28.202115158636897,
+                    "dimension": 18.63932898415657,
                     "children": [
                       {
                         "id": "14074c2c4a13c4ac",
@@ -48,7 +48,7 @@
                           "type": "markdown",
                           "state": {
                             "file": "Protolang/Phonology/Vowels.md",
-                            "mode": "preview",
+                            "mode": "source",
                             "source": true
                           }
                         }
@@ -58,7 +58,7 @@
                   {
                     "id": "68467acaac91d829",
                     "type": "tabs",
-                    "dimension": 71.7978848413631,
+                    "dimension": 81.36067101584344,
                     "children": [
                       {
                         "id": "db947340743bde45",
@@ -80,7 +80,7 @@
               {
                 "id": "36d34cf7577fa1a3",
                 "type": "tabs",
-                "dimension": 59.10852713178295,
+                "dimension": 58.91472868217054,
                 "children": [
                   {
                     "id": "5785af95c441f037",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protolang/Testing.md",
+                "file": "Protolang/Phonology/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protolang/Testing.md",
+                "file": "Protolang/Phonology/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protolang/Testing.md"
+                "file": "Protolang/Phonology/Dictionary.md"
               }
             }
           }
@@ -235,15 +235,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db947340743bde45",
+  "active": "7a93d28d6f35dbaa",
   "lastOpenFiles": [
-    "Protolang/Phonology/Dictionary.md",
     "Protolang/Testing.md",
+    "Protolang/Translations.md",
+    "Protolang/Phonology/Dictionary.md",
     "Protolang/Phonology/Consonants.md",
+    "Protolang/Phonology/Grammer.md",
     "Protolang/Phonology/Vowels.md",
     "README.md",
-    "Untitled.md",
-    "Protolang/Phonology/Grammer.md",
     "Axitian/Phonology/Consonants.md",
     "Axitian/Phonology/Vowels.md",
     "Random Notes.md",
