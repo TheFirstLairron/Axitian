@@ -26,3 +26,5 @@ nʊv bɔʒzɔ daʊliz bɔðzɔ rʊzaʊʒ - You are above me
 	bɔʒzɔ daʊliz bɔðzɔ
 
 vɔhdʒʊl ðiðzɔh rʊzaʊʒ - A welcome greeting
+
+aʊð baʊd vɔhdʒʊl ðiðzɔh rʊzaʊʒ - Today will not exist in peace

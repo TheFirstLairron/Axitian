@@ -25,7 +25,6 @@
 | Joy | ðiðzɔh | theethzah |
 
 
-
 ## Verbs
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
@@ -45,6 +44,12 @@
 | Diminished | viɹ | veer |
 
 
+## Adverbs
+| English | PL IPA | Pronunciation |
+| --- | --- | --- |
+|  |  |  |
+
+
 ## Conjunctions
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
@@ -52,6 +57,10 @@
 
 
 ## Prepositions
+### General 
+| English | PL IPA | Pronunciation |
+| --- | --- | --- |
+| \<noun> of \<noun> | zʊʒ |  |
 ### Time
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
@@ -63,7 +72,6 @@
 | --- | --- | --- |
 | Above | daʊliz | dowleez |
 | Below | nʊliŋ | nooling |
-| Next To |  |  |
 
 
 ## Suffixes and Prefixes
@@ -74,5 +82,6 @@
 | Future | baʊd | bowd | Prefix |
 | Possessive Noun | | | suffix |
 | Negation | aʊð | owth | Suffix |
+| Affirmation | viv | veev | Suffix |
 | Interrogative | hʊl | hool | Prefix |
 | Imperative | dʒɔm | jam | Prefix |
