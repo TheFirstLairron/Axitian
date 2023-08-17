@@ -1,5 +1,5 @@
 Today, I decided to go get groceries. - nʊv bɔmvʊð zʊʒ ɔlɔɹi lʊmhi
-I wanted to go yesterday, but it was raining. 
+I wanted to go yesterday, but it was raining. - vɔhbiðdʒʊl bɔmvʊð zʊʒ ɔlɔɹi haʊŋ-lʊmhi vim ðɔmhil rʊzaʊʒ
 I don’t like the rain. 
 Rain makes things wet. 
 When things are wet, it’s harder to travel. 

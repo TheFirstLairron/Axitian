@@ -12,6 +12,7 @@
 | --- | --- | --- |
 | Home | ðʊvih | thoovee |
 | Store | bɔmvʊð | bahmvooth |
+| Sky | ðɔm | thaam |
 
 ### Things
 | English | PL IPA | Pronunciation |
@@ -19,10 +20,12 @@
 | Sustenance | ɔlɔɹi | ahlahri |
 | Time | vɔh | vah |
 | Day | dʒʊl  | jewel |
-| Yesterday | vɔhbiðdʒʊl | vahbeethjewel |
-| Today | vɔhdʒʊl | vahjewel |
-| Tomorrow | vɔhbaʊddʒʊl | vahbowdjewel |
+| Yesterday (time past day) | vɔhbiðdʒʊl | vahbeethjewel |
+| Today (time day) | vɔhdʒʊl | vahjewel |
+| Tomorrow (time future day) | vɔhbaʊddʒʊl | vahbowdjewel |
 | Joy | ðiðzɔh | theethzah |
+| Water | hil | heel |
+| Rain (sky water) | ðɔmhil | thaamheel |
 
 
 ## Verbs
@@ -54,19 +57,20 @@
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Modify Previous Verb | zɔd | zahd |
+| But | vim | veem |
 
 
 ## Prepositions
 ### General 
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| \<noun> of \<noun> | zʊʒ |  |
+| \<noun> of \<noun> | zʊʒ | zooge |
 ### Time
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Before | vɔhbið | vahbeeth |
-| During | vɔhnʊv | vahnoov |
-| After | vɔhbaʊd | vahbowd |
+| Before (time past) | vɔhbið | vahbeeth |
+| During (time present) | vɔhnʊv | vahnoov |
+| After (time future) | vɔhbaʊd | vahbowd |
 ### Place/Spatial Relationship
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
@@ -80,6 +84,7 @@
 | Past | bið | beeth | Prefix |
 | Present (optional) | nʊv | noov | Prefix |
 | Future | baʊd | bowd | Prefix |
+| Intent to \<Verb> | haʊŋ-\<Verb> | howng-\<Verb> | Prefix |
 | Possessive Noun | | | suffix |
 | Negation | aʊð | owth | Suffix |
 | Affirmation | viv | veev | Suffix |
