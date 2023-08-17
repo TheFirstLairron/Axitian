@@ -74,7 +74,7 @@
 | Below | nʊliŋ | nooling |
 
 
-## Suffixes and Prefixes
+## Affixes
 | English | PL IPA | Pronunciation | Location |
 | --- | --- | --- | --- |
 | Past | bið | beeth | Prefix |
