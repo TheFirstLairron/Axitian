@@ -17,6 +17,7 @@
 ### Things
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
+| Object | daʊɔl | dowahl |
 | Sustenance | ɔlɔɹi | ahlahri |
 | Time | vɔh | vah |
 | Day | dʒʊl  | jewel |
@@ -38,6 +39,7 @@
 | Like | laʊʒvɔŋ | lowgevang |
 | Need | vinaʊli | veenowlee |
 | Provide | mihʊŋ | meehoong |
+| Become Like | ɹɔlhivɔ | rallhivah |
 
 
 ## Adjectives
@@ -58,6 +60,7 @@
 | --- | --- | --- |
 | Modify Previous Verb | zɔd | zahd |
 | But | vim | veem |
+| Causation | dʒaʊiŋ | jow-ing |
 
 
 ## Prepositions
