@@ -40,6 +40,7 @@
 | Need | vinaʊli | veenowlee |
 | Provide | mihʊŋ | meehoong |
 | Become Like | ɹɔlhivɔ | rallhivah |
+| Purchase | hɔbbi | hahbee |
 
 
 ## Adjectives
@@ -47,6 +48,8 @@
 | --- | --- | --- |
 | Amplified | ɹiv | reave |
 | Diminished | viɹ | veer |
+| Difficult | maʊb | mowb |
+| Easy | dʒim | jeem |
 
 
 ## Adverbs
@@ -88,8 +91,8 @@
 | Present (optional) | nʊv | noov | Prefix |
 | Future | baʊd | bowd | Prefix |
 | Intent to \<Verb> | haʊŋ-\<Verb> | howng-\<Verb> | Prefix |
-| Possessive Noun | | | suffix |
 | Negation | aʊð | owth | Suffix |
 | Affirmation | viv | veev | Suffix |
 | Interrogative | hʊl | hool | Prefix |
 | Imperative | dʒɔm | jam | Prefix |
+| Gerund (verb as noun) | vɔz-\<noun> | vaaz | Prefix |
