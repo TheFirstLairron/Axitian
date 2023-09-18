@@ -3,48 +3,49 @@
 ### People
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Reference to Self | bɔðzɔ | bahth-zah |
 | Reference to Other (animate) | bɔʒzɔ | bahge-zah |
 | Reference to Other (inanimate) | bɔbzɔ | bahb-zah |
+| Reference to Self | bɔðzɔ | bahth-zah |
 
 ### Places
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Home | ðʊvih | thoovee |
-| Store | bɔmvʊð | bahmvooth |
-| Sky | ðɔm | thaam |
 | Park | hɔŋ | hahng |
+| Sky | ðɔm | thaam |
+| Store | bɔmvʊð | bahmvooth |
+
 
 ### Things
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
+| Day | dʒʊl  | jewel |
+| Joy | ðiðzɔh | theethzah |
 | Object | daʊɔl | dowahl |
+| Rain (sky water) | ðɔmhil | thaamheel |
 | Sustenance | ɔlɔɹi | ahlahri |
 | Time | vɔh | vah |
-| Day | dʒʊl  | jewel |
-| Yesterday (time past day) | vɔhbiðdʒʊl | vahbeethjewel |
 | Today (time day) | vɔhdʒʊl | vahjewel |
 | Tomorrow (time future day) | vɔhbaʊddʒʊl | vahbowdjewel |
-| Joy | ðiðzɔh | theethzah |
 | Water | hil | heel |
-| Rain (sky water) | ðɔmhil | thaamheel |
-
+| Yesterday (time past day) | vɔhbiðdʒʊl | vahbeethjewel |
 
 ## Verbs
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
+| Become Like | ɹɔlhivɔ | rallhivah |
+| To Do | ɔððɔ | ahththah |
 | To Exist | rʊzaʊʒ | roozowge |
-| Move | idʒi | iji |
-| Travel | lʊmhi | loomhee |
-| Stand | vaʊʒ | vowge |
+| To Know/To Understand | vaʊv | vowv |
 | Like | laʊʒvɔŋ | lowgevang |
+| Move | idʒi | iji |
 | Need | vinaʊli | veenowlee |
 | Provide | mihʊŋ | meehoong |
-| Become Like | ɹɔlhivɔ | rallhivah |
 | Purchase | hɔbbi | hahbee |
+| Stand | vaʊʒ | vowge |
 | Stay | vɔbaʊl | vahbowl |
-| To Know/To Understand | vaʊv | vowv |
-| To Do | ɔððɔ | ahththah |
+| Travel | lʊmhi | loomhee |
+
 
 
 ## Adjectives
@@ -67,10 +68,10 @@
 ## Conjunctions
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Modify Previous Verb | zɔd | zahd |
 | But | vim | veem |
 | Causation | dʒaʊiŋ | jow-ing |
 | Conditional | hiʒ | heege |
+| Modify Previous Verb | zɔd | zahd |
 
 
 ## Prepositions
@@ -81,26 +82,26 @@
 ### Time
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
+| After (time future) | vɔhbaʊd | vahbowd |
 | Before (time past) | vɔhbið | vahbeeth |
 | During (time present) | vɔhnʊv | vahnoov |
-| After (time future) | vɔhbaʊd | vahbowd |
 ### Place/Spatial Relationship
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Above | daʊliz | dowleez |
-| Below | nʊliŋ | nooling |
 | At | vaʊ | vow |
+| Below | nʊliŋ | nooling |
 
 
 ## Affixes
 | English | PL IPA | Pronunciation | Location |
 | --- | --- | --- | --- |
+| Affirmative | viv | veev | Suffix |
+| Future | baʊd | bowd | Prefix |
+| Gerund (verb as noun) | vɔz-\<noun> | vaaz | Prefix |
+| Imperative | dʒɔm | jam | Prefix |
+| Intent to \<Verb> | haʊŋ-\<Verb> | howng-\<Verb> | Prefix |
+| Interrogative | hʊl | hool | Prefix |
+| Negation | aʊð | owth | Suffix |
 | Past | bið | beeth | Prefix |
 | Present (optional) | nʊv | noov | Prefix |
-| Future | baʊd | bowd | Prefix |
-| Intent to \<Verb> | haʊŋ-\<Verb> | howng-\<Verb> | Prefix |
-| Negation | aʊð | owth | Suffix |
-| Affirmation | viv | veev | Suffix |
-| Interrogative | hʊl | hool | Prefix |
-| Imperative | dʒɔm | jam | Prefix |
-| Gerund (verb as noun) | vɔz-\<noun> | vaaz | Prefix |
