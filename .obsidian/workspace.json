@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "83090144fc44b001",
+        "id": "f5ebad39281f27b9",
         "type": "split",
         "children": [
           {
-            "id": "f7bf180404e8a082",
+            "id": "803a9e90d7c7f682",
             "type": "tabs",
-            "dimension": 45.49492385786802,
+            "dimension": 37.23150357995227,
             "children": [
               {
                 "id": "7a93d28d6f35dbaa",
@@ -27,19 +27,70 @@
             ]
           },
           {
-            "id": "3d2f3ee56cc88fab",
+            "id": "04311afef542731d",
             "type": "split",
-            "dimension": 54.50507614213198,
+            "dimension": 62.76849642004774,
             "children": [
               {
-                "id": "f876e3d61bdca04f",
-                "type": "split",
-                "dimension": 41.08527131782946,
+                "id": "68467acaac91d829",
+                "type": "tabs",
+                "dimension": 59.689922480620154,
                 "children": [
                   {
-                    "id": "9dcad09145dcdcbd",
+                    "id": "a9fc9d2245e3b0dd",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Protolang/Testing.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "231b09ccffa590a6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Protolang/Translations.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "a5b9d5b9692fe3f2",
+                "type": "split",
+                "dimension": 40.31007751937985,
+                "children": [
+                  {
+                    "id": "d800ba2991f5a6e8",
                     "type": "tabs",
-                    "dimension": 18.63932898415657,
+                    "dimension": 78.51711026615969,
+                    "children": [
+                      {
+                        "id": "5785af95c441f037",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Protolang/Phonology/Consonants.md",
+                            "mode": "preview",
+                            "source": true
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "98d25d92a86b688f",
+                    "type": "tabs",
+                    "dimension": 21.482889733840306,
                     "children": [
                       {
                         "id": "14074c2c4a13c4ac",
@@ -48,26 +99,7 @@
                           "type": "markdown",
                           "state": {
                             "file": "Protolang/Phonology/Vowels.md",
-                            "mode": "source",
-                            "source": true
-                          }
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "68467acaac91d829",
-                    "type": "tabs",
-                    "dimension": 81.36067101584344,
-                    "children": [
-                      {
-                        "id": "db947340743bde45",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "Protolang/Testing.md",
-                            "mode": "source",
+                            "mode": "preview",
                             "source": true
                           }
                         }
@@ -76,25 +108,6 @@
                   }
                 ],
                 "direction": "vertical"
-              },
-              {
-                "id": "36d34cf7577fa1a3",
-                "type": "tabs",
-                "dimension": 58.91472868217054,
-                "children": [
-                  {
-                    "id": "5785af95c441f037",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Protolang/Phonology/Consonants.md",
-                        "mode": "preview",
-                        "source": true
-                      }
-                    }
-                  }
-                ]
               }
             ],
             "direction": "horizontal"
@@ -158,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9cd730a8b802778e",
@@ -217,6 +230,16 @@
                 "file": "Protolang/Phonology/Dictionary.md"
               }
             }
+          },
+          {
+            "id": "4b46f742accc4cbd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -237,18 +260,18 @@
   },
   "active": "7a93d28d6f35dbaa",
   "lastOpenFiles": [
-    "Protolang/Testing.md",
     "Protolang/Translations.md",
+    "Protolang/Testing.md",
     "Protolang/Phonology/Dictionary.md",
+    "Protolang/Phonology/Vowels.md",
     "Protolang/Phonology/Consonants.md",
     "Protolang/Phonology/Grammer.md",
-    "Protolang/Phonology/Vowels.md",
+    "Media/PlaceOfArticulation.gif",
+    "Protolang/Phonology/Syllabic Structure.md",
     "README.md",
     "Axitian/Phonology/Consonants.md",
     "Axitian/Phonology/Vowels.md",
     "Random Notes.md",
-    "Protolang/Phonology/Syllabic Structure.md",
-    "Media/PlaceOfArticulation.gif",
     "Media/ipa-chart-consonants.webp",
     "Notes/Place of Articulation.md",
     "Notes/Degree of Closure.md",
