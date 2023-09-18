@@ -13,6 +13,7 @@
 | Home | ðʊvih | thoovee |
 | Store | bɔmvʊð | bahmvooth |
 | Sky | ðɔm | thaam |
+| Park | hɔŋ | hahng |
 
 ### Things
 | English | PL IPA | Pronunciation |
@@ -41,6 +42,9 @@
 | Provide | mihʊŋ | meehoong |
 | Become Like | ɹɔlhivɔ | rallhivah |
 | Purchase | hɔbbi | hahbee |
+| Stay | vɔbaʊl | vahbowl |
+| To Know/To Understand | vaʊv | vowv |
+| To Do | ɔððɔ | ahththah |
 
 
 ## Adjectives
@@ -50,6 +54,7 @@
 | Diminished | viɹ | veer |
 | Difficult | maʊb | mowb |
 | Easy | dʒim | jeem |
+| Uncertainty | vʊðɔ | voothah |
 
 
 ## Adverbs
@@ -58,12 +63,14 @@
 |  |  |  |
 
 
+
 ## Conjunctions
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Modify Previous Verb | zɔd | zahd |
 | But | vim | veem |
 | Causation | dʒaʊiŋ | jow-ing |
+| Conditional | hiʒ | heege |
 
 
 ## Prepositions
@@ -82,6 +89,7 @@
 | --- | --- | --- |
 | Above | daʊliz | dowleez |
 | Below | nʊliŋ | nooling |
+| At | vaʊ | vow |
 
 
 ## Affixes
