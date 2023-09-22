@@ -19,10 +19,12 @@
 ### Things
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
-| Day | dʒʊl  | jewel |
+| Day | dʒʊl | jewel |
+| Fire | naʊʒ | nowge |
 | Joy | ðiðzɔh | theethzah |
 | Object | daʊɔl | dowahl |
 | Rain (sky water) | ðɔmhil | thaamheel |
+| Sun (sky fire) | ðɔmnaʊʒ | thaamnowge |
 | Sustenance | ɔlɔɹi | ahlahri |
 | Time | vɔh | vah |
 | Today (time day) | vɔhdʒʊl | vahjewel |
@@ -52,10 +54,12 @@
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Amplified | ɹiv | reave |
+| Bright | naʊv | nowve |
 | Diminished | viɹ | veer |
 | Difficult | maʊb | mowb |
 | Easy | dʒim | jeem |
 | Uncertainty | vʊðɔ | voothah |
+| Warm | didʒ | deej |
 
 
 ## Adverbs
@@ -71,6 +75,7 @@
 | But | vim | veem |
 | Causation | dʒaʊiŋ | jow-ing |
 | Conditional | hiʒ | heege |
+| List of consecutive adjectives | ðiz \<List> dið | thiz \<List> Deeth |
 | Modify Previous Verb | zɔd | zahd |
 
 

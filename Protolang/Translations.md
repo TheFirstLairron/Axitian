@@ -13,7 +13,7 @@ But since I’m not sure, I don’t want to commit. - aʊð vaʊv dʒaʊiŋ aʊ�
 
 
 
-The sun is bright and warm. 
+The sun is bright and warm. - ðɔmnaʊʒ ðiz naʊv didʒ dið
 It makes the day feel nice. 
 Birds fly in the sky. 
 Some are big, and some are small. 
