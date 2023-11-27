@@ -38,26 +38,25 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Protolang/Testing.md",
+                    "file": "Protolang/Translations.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               },
               {
-                "id": "f7cbbc5908679383",
+                "id": "a5c4bbe926b3465e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Protolang/Translations.md",
+                    "file": "Protolang/Testing.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "2fca20e45460fc3c",
@@ -67,7 +66,7 @@
               {
                 "id": "da92a7e29d9ee84d",
                 "type": "tabs",
-                "dimension": 80.0177619893428,
+                "dimension": 69.26926926926927,
                 "children": [
                   {
                     "id": "95f972dc5f32d337",
@@ -86,7 +85,7 @@
               {
                 "id": "a14c65a219b7acc6",
                 "type": "tabs",
-                "dimension": 19.982238010657195,
+                "dimension": 30.73073073073073,
                 "children": [
                   {
                     "id": "c028269dd1ba98c4",
@@ -255,9 +254,9 @@
   "lastOpenFiles": [
     "Protolang/Translations.md",
     "Protolang/Phonology/Dictionary.md",
+    "Protolang/Testing.md",
     "Protolang/Phonology/Consonants.md",
     "Protolang/Phonology/Vowels.md",
-    "Protolang/Testing.md",
     "Protolang/Phonology/Dictionary/Nouns.md",
     "Protolang/Phonology/Dictionary",
     "Protolang/Phonology/Grammer.md",

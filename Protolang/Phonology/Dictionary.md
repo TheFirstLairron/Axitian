@@ -60,6 +60,8 @@
 | Easy | dʒim | jeem |
 | Uncertainty | vʊðɔ | voothah |
 | Warm | didʒ | deej |
+| Cold | dʒʊn | joon |
+| Frozen (Amplified Cold)| ɹivdʒʊn | reevjoon |
 
 
 ## Adverbs
