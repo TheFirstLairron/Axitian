@@ -27,4 +27,4 @@ nʊv bɔʒzɔ daʊliz bɔðzɔ rʊzaʊʒ - You are above me
 
 vɔhdʒʊl ðiðzɔh rʊzaʊʒ - A welcome greeting
 
-aʊð baʊd vɔhdʒʊl ðiðzɔh rʊzaʊʒ - Today will not exist in peace
+aʊð baʊd vɔhdʒʊl ðiðzɔh rʊzaʊʒ - Today will not exist in joy

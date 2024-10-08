@@ -15,16 +15,18 @@
 | Sky | ðɔm | thaam |
 | Store | bɔmvʊð | bahmvooth |
 
-
 ### Things
 | English | PL IPA | Pronunciation |
 | --- | --- | --- |
 | Day | dʒʊl | jewel |
 | Fire | naʊʒ | nowge |
 | Joy | ðiðzɔh | theethzah |
+| Knowledge/Information | ʒaʊð | geouth |
 | Object | daʊɔl | dowahl |
+| Person / People | liv | leav |
 | Rain (sky water) | ðɔmhil | thaamheel |
 | Sun (sky fire) | ðɔmnaʊʒ | thaamnowge |
+| Moon (Sky cold) | ðɔmdʒʊn | thaamjoon |
 | Sustenance | ɔlɔɹi | ahlahri |
 | Time | vɔh | vah |
 | Today (time day) | vɔhdʒʊl | vahjewel |
@@ -55,13 +57,15 @@
 | --- | --- | --- |
 | Amplified | ɹiv | reave |
 | Bright | naʊv | nowve |
+| Cold | dʒʊn | joon |
 | Diminished | viɹ | veer |
 | Difficult | maʊb | mowb |
 | Easy | dʒim | jeem |
+| Frozen (Amplified Cold)| ɹivdʒʊn | reevjoon |
 | Uncertainty | vʊðɔ | voothah |
 | Warm | didʒ | deej |
-| Cold | dʒʊn | joon |
-| Frozen (Amplified Cold)| ɹivdʒʊn | reevjoon |
+
+
 
 
 ## Adverbs

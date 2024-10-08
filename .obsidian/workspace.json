@@ -6,7 +6,7 @@
       {
         "id": "803a9e90d7c7f682",
         "type": "tabs",
-        "dimension": 40.39379474940334,
+        "dimension": 39.140811455847256,
         "children": [
           {
             "id": "7a93d28d6f35dbaa",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Protolang/Phonology/Dictionary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,12 +25,12 @@
       {
         "id": "2f7c63f9c3b78ef8",
         "type": "split",
-        "dimension": 59.60620525059666,
+        "dimension": 60.859188544152744,
         "children": [
           {
             "id": "ed8a52f9a09ed40a",
             "type": "tabs",
-            "dimension": 48.25581395348838,
+            "dimension": 49.127906976744185,
             "children": [
               {
                 "id": "bd80b6825899ea6a",
@@ -61,12 +61,12 @@
           {
             "id": "2fca20e45460fc3c",
             "type": "split",
-            "dimension": 51.74418604651163,
+            "dimension": 50.872093023255815,
             "children": [
               {
                 "id": "da92a7e29d9ee84d",
                 "type": "tabs",
-                "dimension": 69.26926926926927,
+                "dimension": 80.14705882352942,
                 "children": [
                   {
                     "id": "95f972dc5f32d337",
@@ -85,7 +85,7 @@
               {
                 "id": "a14c65a219b7acc6",
                 "type": "tabs",
-                "dimension": 30.73073073073073,
+                "dimension": 19.852941176470587,
                 "children": [
                   {
                     "id": "c028269dd1ba98c4",
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protolang/Phonology/Dictionary.md",
+                "file": "Protolang/Translations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protolang/Phonology/Dictionary.md",
+                "file": "Protolang/Translations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protolang/Phonology/Dictionary.md"
+                "file": "Protolang/Translations.md"
               }
             }
           },
@@ -229,7 +229,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -250,16 +252,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a93d28d6f35dbaa",
+  "active": "bd80b6825899ea6a",
   "lastOpenFiles": [
-    "Protolang/Translations.md",
-    "Protolang/Phonology/Dictionary.md",
-    "Protolang/Testing.md",
     "Protolang/Phonology/Consonants.md",
+    "Protolang/Phonology/Dictionary.md",
+    "Protolang/Translations.md",
+    "Protolang/Testing.md",
     "Protolang/Phonology/Vowels.md",
+    "Protolang/Phonology/Grammer.md",
     "Protolang/Phonology/Dictionary/Nouns.md",
     "Protolang/Phonology/Dictionary",
-    "Protolang/Phonology/Grammer.md",
     "Media/PlaceOfArticulation.gif",
     "Protolang/Phonology/Syllabic Structure.md",
     "README.md",
